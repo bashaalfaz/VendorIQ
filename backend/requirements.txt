@@ -6,3 +6,4 @@ pydantic
 python-dotenv
 pymupdf
 google-genai
+psycopg2-binary
