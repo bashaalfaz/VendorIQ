@@ -1,0 +1,17 @@
+
+.env
+.env.*
+!.env.example
+
+venv/
+__pycache__/
+*.pyc
+
+node_modules/
+dist/
+
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+backend/vendoriq.db
+*.db
